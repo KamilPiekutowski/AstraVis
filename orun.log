@@ -1,0 +1,12 @@
+Initializing mission control server on port 22500
+Equalizer display system initializing
+Running default_init.py
+Running system/quickCommands.py
+
+>> omegalib 8.0
+>> to get a list of quick commands type ':?'
+Running ./pointCloudView.py
+[BinaryPointsLoader] Total Points: <2097152>   Points per batch: <10000>   Batch length(%): <0>
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+!!! SceneNode::getBoundCenter: non-finite bounds for scene node Unnamed_2
+OsgModule: autoNearFar = 1

@@ -1,0 +1,9 @@
+#!/bin/bash
+mkdir xyzb
+
+for i in ds14*
+do
+	./astroToOmega.py "$i"
+done
+
+mv *.xyzb xyzb

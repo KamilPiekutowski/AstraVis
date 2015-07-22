@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for i in ds14*
+do
+	./astroToOmega.py "xyzb/$i"
+done
+
