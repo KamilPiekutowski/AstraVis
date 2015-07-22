@@ -8,40 +8,6 @@ if len(sys.argv) < 2:
 
 infile = open(sys.argv[1])
 
-#data = [[0,1],
-#        [1,2],
-#        [1,3],
-#        [1,4],
-#        [2,5],
-#        [2,6],
-#        [3,7],
-#        [4,8],
-#        [4,9],
-#        [5,10],
-#        [5,11],
-#        [5,12],
-#        [6,13],
-#        [6,14],
-#        [7,-1],
-#        [8,-1],
-#        [9,-1],
-#        [10,-1],
-#        [11,-1],
-#        [12,-1],
-#        [13,-1],
-#        [14,-1]]
-
-
-#data = [[0,1],
-#        [1,2],
-#        [1,3],
-#        [2,-1],
-#        [3,-1]]
-
-#data = [[0,1],
-#        [1,2],
-#        [2,3],
-#        [3,-1]]
 
 file_data = []
 data = []
@@ -56,9 +22,6 @@ for i in file_data:
     data.append([int(i[3]),int(i[1])])
 
 data[0][0] = 0
-
-for i in data:
-    print i
 
 #exit()
 
@@ -85,6 +48,7 @@ for i in data:
     last_child.update({ i[0] : i[1]})
 
 
+print "["
 
 def foo(key,index,parent):
     for i in data[index:]:
@@ -136,17 +100,9 @@ def foo(key,index,parent):
 
             
 
-for i in single_nodes:
-    print i
-    #tree.append({'name': '%s' % i[0]})
 
 
 foo(0,0,-1)
 
-#for i in children_count:
-#    print i
-#print children_count
-#print last_child
-#print keys
-#output = open('test.json','wb')
-#json.dump(tree,output)
+print "]"
+
