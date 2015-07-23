@@ -55,14 +55,14 @@ for line in tree2:
 
 print "Creating json file.."
 
-outfile1 = open("tree.data","wb")
-outfile2 = open("hierarchy.data","wb")
+#outfile1 = open("tree.data","wb")
+#outfile2 = open("hierarchy.data","wb")
 
-outfile1.write("[")
-for line in tree1[:1000]:
-    outfile1.write("%s,\n" % line)
-outfile1.write("%s\n" % tree1[1000])
-outfile1.write("]")
+#outfile1.write("[")
+#for line in tree1[:1000]:
+#    outfile1.write("%s,\n" % line)
+#outfile1.write("%s\n" % tree1[1000])
+#outfile1.write("]")
 
 #for line in tree2[:1000]:
 #    outfile2.write("%s\n" % line)
@@ -100,9 +100,10 @@ for i in single_nodes:
 
 
 
-foo(0,tree,1)
-print tree
+#foo(0,tree,1)
+for i in tree3:
+    print i
 
 
-output = open('test.json','wb')
-json.dump(tree,output)
+#output = open('test.json','wb')
+#json.dump(tree,output)

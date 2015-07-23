@@ -43,7 +43,6 @@ d3.json("test.json", function(error,json) {
 		if(error) return console.warn(error);
 		treeData = json;
 
-
 // ************** Generate the tree diagram	 *****************
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
 	width = 15000 - margin.right - margin.left,
@@ -167,12 +166,13 @@ function click(d) {
 	d.children = null;
   } else {
 	d.children = d._children;
-	d._children = null;
+	d._children = null;i
   }
   update(d);
 }
 
 });
+
 </script>
 	
   </body>
