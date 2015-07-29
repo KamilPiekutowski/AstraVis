@@ -261,14 +261,6 @@ def a():
     global setAnimate
     setAnimate = not setAnimate
 
-    #    for i in range(0, 88):
-    #        timeStepsRaw[i].object.setVisible(False)
-    #        timeStepsHal[i].object.setVisible(False)
-    #        timeStepsRaw[i+1].object.setVisible(True)
-    #        timeStepsHal[i+1].object.setVisible(True)
-    #        time.sleep(1)
-
-
 def onUpdate(frame, time, dt):
     
     global funcTimer
@@ -317,15 +309,3 @@ setNearFarZ(0.01, 10000)
 
 v(45)
 
-
-#--------------------------------------------------------------------------------
-# Add a window resized callback (and call it once when the program starts)
-#windowSize = Uniform.create('windowSize', UniformType.Vector2f, 1)
-#ps.material.attachUniform(windowSize)
-
-#def windowResized():
-#    dc = getDisplayConfig()
-#    cr = dc.getCanvasRect()
-#    windowSize.setVector2f(Vector2(cr[2], cr[3]))
-#getDisplayConfig().canvasChangedCommand = 'windowResized()'
-#windowResized()
