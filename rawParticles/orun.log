@@ -1,0 +1,651 @@
+Equalizer display system initializing
+SoundManager: Connected to server, will send messages to xenakis.evl.uic.edu on port 57120
+Engine: Checking if sound server is ready at xenakis.evl.uic.edu on port 57120... (Waiting for 5 seconds)
+Engine: Sound server reports ready.
+SoundManager::setup: Display radius: 3.24
+Running default_init.py
+Running system/quickCommands.py
+Connected: setting cache
+Done message received
+CacheSyncThread:threadProc(): END
+Loaded buffer ID 10 with path menu_sounds/menu_load.wav
+Connected: setting cache
+Done message received
+CacheSyncThread:threadProc(): END
+Loaded buffer ID 11 with path menu_sounds/menu_closed.wav
+Connected: setting cache
+Done message received
+CacheSyncThread:threadProc(): END
+Loaded buffer ID 12 with path menu_sounds/menu_select.wav
+Connected: setting cache
+Done message received
+CacheSyncThread:threadProc(): END
+Loaded buffer ID 13 with path menu_sounds/menu_scroll.wav
+
+>> omegalib 6.5
+>> to get a list of quick commands type ':?'
+Running darkMatter.py
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
+!!! Can't have more than 100 batches. Adjusting batch size to 20971
+LOD levels: 1
+out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
+Total Points: 63   Points per batch: 10000   Batch length(%): 15873
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067840, 'maxB': 0.274159, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 154   Points per batch: 10000   Batch length(%): 6493
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067827, 'maxB': 0.289180, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 315   Points per batch: 10000   Batch length(%): 3174
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067811, 'maxB': 0.310497, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 517   Points per batch: 10000   Batch length(%): 1934
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067793, 'maxB': 0.337603, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 783   Points per batch: 10000   Batch length(%): 1277
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067772, 'maxB': 0.378718, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 1097   Points per batch: 10000   Batch length(%): 911
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067749, 'maxB': 0.407743, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 1470   Points per batch: 10000   Batch length(%): 680
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067722, 'maxB': 0.448262, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 1876   Points per batch: 10000   Batch length(%): 533
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067693, 'maxB': 0.473161, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 2273   Points per batch: 10000   Batch length(%): 439
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067659, 'maxB': 0.485960, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 2675   Points per batch: 10000   Batch length(%): 373
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067624, 'maxB': 0.540297, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 3086   Points per batch: 10000   Batch length(%): 324
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067586, 'maxB': 0.569253, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 3472   Points per batch: 10000   Batch length(%): 288
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067544, 'maxB': 0.613541, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 3866   Points per batch: 10000   Batch length(%): 258
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067498, 'maxB': 0.636362, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 4188   Points per batch: 10000   Batch length(%): 238
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067448, 'maxB': 0.652528, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 4494   Points per batch: 10000   Batch length(%): 222
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067391, 'maxB': 0.669991, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 4777   Points per batch: 10000   Batch length(%): 209
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067333, 'maxB': 0.689266, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 5039   Points per batch: 10000   Batch length(%): 198
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067276, 'maxB': 0.701762, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 5309   Points per batch: 10000   Batch length(%): 188
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067210, 'maxB': 0.705072, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 5573   Points per batch: 10000   Batch length(%): 179
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067141, 'maxB': 0.706976, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 5777   Points per batch: 10000   Batch length(%): 173
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067067, 'maxB': 0.709212, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 6004   Points per batch: 10000   Batch length(%): 166
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066989, 'maxB': 0.711074, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 6181   Points per batch: 10000   Batch length(%): 161
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066907, 'maxB': 0.737450, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 6347   Points per batch: 10000   Batch length(%): 157
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066821, 'maxB': 0.767196, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 6468   Points per batch: 10000   Batch length(%): 154
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066730, 'maxB': 0.789405, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 6632   Points per batch: 10000   Batch length(%): 150
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066636, 'maxB': 0.812080, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 6778   Points per batch: 10000   Batch length(%): 147
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066537, 'maxB': 0.825468, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 6886   Points per batch: 10000   Batch length(%): 145
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066433, 'maxB': 0.841379, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 6958   Points per batch: 10000   Batch length(%): 143
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066326, 'maxB': 0.874871, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 6967   Points per batch: 10000   Batch length(%): 143
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066214, 'maxB': 0.915945, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7016   Points per batch: 10000   Batch length(%): 142
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066099, 'maxB': 0.944486, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7054   Points per batch: 10000   Batch length(%): 141
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065979, 'maxB': 0.957253, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7099   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065855, 'maxB': 0.972564, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7132   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065725, 'maxB': 0.991039, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7169   Points per batch: 10000   Batch length(%): 139
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065595, 'maxB': 1.014823, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7213   Points per batch: 10000   Batch length(%): 138
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065460, 'maxB': 1.037460, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7230   Points per batch: 10000   Batch length(%): 138
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065319, 'maxB': 1.087250, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7260   Points per batch: 10000   Batch length(%): 137
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065177, 'maxB': 1.144641, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7274   Points per batch: 10000   Batch length(%): 137
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065031, 'maxB': 1.196052, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7307   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064881, 'maxB': 1.255895, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7334   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064727, 'maxB': 1.286123, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7342   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064570, 'maxB': 1.301887, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7343   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064408, 'maxB': 1.313356, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7341   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064246, 'maxB': 1.323358, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7350   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064080, 'maxB': 1.340450, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7341   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063910, 'maxB': 1.347915, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7332   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063738, 'maxB': 1.346640, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7333   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063562, 'maxB': 1.342678, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7308   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063385, 'maxB': 1.331780, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7290   Points per batch: 10000   Batch length(%): 137
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063205, 'maxB': 1.323125, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7266   Points per batch: 10000   Batch length(%): 137
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063021, 'maxB': 1.316411, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7267   Points per batch: 10000   Batch length(%): 137
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062836, 'maxB': 1.303984, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7246   Points per batch: 10000   Batch length(%): 138
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062648, 'maxB': 1.296096, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7227   Points per batch: 10000   Batch length(%): 138
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062458, 'maxB': 1.277128, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7203   Points per batch: 10000   Batch length(%): 138
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062266, 'maxB': 1.274855, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7177   Points per batch: 10000   Batch length(%): 139
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062071, 'maxB': 1.276058, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7153   Points per batch: 10000   Batch length(%): 139
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061874, 'maxB': 1.282400, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7128   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061676, 'maxB': 1.286158, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7123   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061476, 'maxB': 1.287141, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7132   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061273, 'maxB': 1.288519, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7136   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061069, 'maxB': 1.289865, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7125   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060863, 'maxB': 1.289939, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7114   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060656, 'maxB': 1.292395, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7099   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060447, 'maxB': 1.296388, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7107   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060237, 'maxB': 1.307489, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7106   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060025, 'maxB': 1.310176, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7104   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.059812, 'maxB': 1.311479, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7104   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.059597, 'maxB': 1.313865, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7109   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.059382, 'maxB': 1.315834, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7126   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.059165, 'maxB': 1.314111, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7134   Points per batch: 10000   Batch length(%): 140
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058946, 'maxB': 1.312545, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7147   Points per batch: 10000   Batch length(%): 139
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058727, 'maxB': 1.309143, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7147   Points per batch: 10000   Batch length(%): 139
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058507, 'maxB': 1.304331, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7170   Points per batch: 10000   Batch length(%): 139
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058286, 'maxB': 1.300786, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7163   Points per batch: 10000   Batch length(%): 139
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058064, 'maxB': 1.296974, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7174   Points per batch: 10000   Batch length(%): 139
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.057841, 'maxB': 1.295038, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7181   Points per batch: 10000   Batch length(%): 139
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.057617, 'maxB': 1.291175, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7212   Points per batch: 10000   Batch length(%): 138
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.057392, 'maxB': 1.288309, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7239   Points per batch: 10000   Batch length(%): 138
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.057167, 'maxB': 1.286532, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7268   Points per batch: 10000   Batch length(%): 137
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056941, 'maxB': 1.283186, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7303   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056714, 'maxB': 1.279121, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7315   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056487, 'maxB': 1.271994, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7337   Points per batch: 10000   Batch length(%): 136
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056259, 'maxB': 1.264847, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7359   Points per batch: 10000   Batch length(%): 135
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056031, 'maxB': 1.259956, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7409   Points per batch: 10000   Batch length(%): 134
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.055802, 'maxB': 1.260180, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7437   Points per batch: 10000   Batch length(%): 134
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.055573, 'maxB': 1.258339, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7492   Points per batch: 10000   Batch length(%): 133
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.055344, 'maxB': 1.254672, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7546   Points per batch: 10000   Batch length(%): 132
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.055114, 'maxB': 1.252033, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7526   Points per batch: 10000   Batch length(%): 132
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.054884, 'maxB': 1.249056, 'minA': 2.000000, 'maxA': 2.000000 }
+Total Points: 7497   Points per batch: 10000   Batch length(%): 133
+LOD levels: 1
+out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.054654, 'maxB': 1.248390, 'minA': 2.000000, 'maxA': 2.000000 }
+number of nodes: 37

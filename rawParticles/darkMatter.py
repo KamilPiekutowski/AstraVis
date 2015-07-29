@@ -250,6 +250,11 @@ def hTog(x):
         else:
             timeStepsHal[i].object.setVisible(False)
 
+def allHalos():
+    for i in range(0, 89):
+        timeStepsHal[i].object.setVisible(True)
+
+
 funcTimer = 0.0
 currentIndex = 0
 setAnimate = False
@@ -273,8 +278,8 @@ def onUpdate(frame, time, dt):
         
         timeStepsHal[currentIndex].object.setVisible(True)
         
-        if currentIndex > 10:
-            timeStepsHal[currentIndex - 10].object.setVisible(False)
+        #if currentIndex > 15:
+        #    timeStepsHal[currentIndex - 15].object.setVisible(False)
     
         currentIndex += 1
 
@@ -307,5 +312,5 @@ c.setPosition(100, 40, 150)
 
 setNearFarZ(0.01, 10000)
 
-v(45)
+v(100)
 
