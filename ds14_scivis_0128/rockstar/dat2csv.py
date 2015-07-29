@@ -1,9 +1,5 @@
 #!/usr/bin/python
 
-import thingking as tk
-import numpy as np
-import json
-from treeClass import HaloTree as tc
 
 
 print "reading file..."
@@ -15,13 +11,17 @@ data = []
 print "parsing data..."
 
 
-print po.readline().split()
+header = po.readline().split()
+
+print header[4]
+
 
 
 for line in po:
     if not line[0] == '#':
         data.append(line.split())
 
-#for i in data:
-#    print i
-#data.pop(0)
+data.pop(0)
+
+for i in data:
+    print i[4]
