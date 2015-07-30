@@ -255,10 +255,9 @@ def allHalos():
         timeStepsHal[i].object.setVisible(True)
 
 
-funcTimer = 0.0
+funcTimer = frameTimer = frameCounter = 0.0
 currentIndex = 0
 setAnimate = False
-
 
 
 def a():
@@ -269,17 +268,23 @@ def a():
 def onUpdate(frame, time, dt):
     
     global funcTimer
+    global frameTimer
     global currentIndex
     global setAnimate
+    global frameCounter
+    
+    
     
     funcTimer += dt
+    frameTimer += dt
+    frameCounter += 1
 
     if funcTimer > .15 and setAnimate:
         
         timeStepsHal[currentIndex].object.setVisible(True)
         
-        #if currentIndex > 15:
-        #    timeStepsHal[currentIndex - 15].object.setVisible(False)
+        if currentIndex > 1:
+            timeStepsHal[currentIndex - 1].object.setVisible(False)
     
         currentIndex += 1
 
@@ -290,14 +295,14 @@ def onUpdate(frame, time, dt):
         funcTimer = 0.0
 
 
-
+    if frameTimer > 1:
+        #print (frameCounter)
+        frameCounter = 0.0
+        frameTimer = 0.0
     
-    #print(frame, time, dt, funcTimer)
+#print(frame, time, dt, funcTimer, fps)
     
 setUpdateFunction(onUpdate)
-
-
-
 
 
 

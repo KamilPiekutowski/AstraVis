@@ -649,3 +649,6 @@ Total Points: 7497   Points per batch: 10000   Batch length(%): 133
 LOD levels: 1
 out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.054654, 'maxB': 1.248390, 'minA': 2.000000, 'maxA': 2.000000 }
 number of nodes: 37
+[PYTHON ERROR] !!! Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+number of nodes: 37
