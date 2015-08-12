@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+    <title>Firefly Control Panek</title>
+</head>
+
+<body>
+    <div style="float:left">
+        <button type=button onclick="porthole.call('v(0)')">Data 0</button>
+        <input type=range min = 0 max=20 oninput="porthole.call('s(0, ' + value + ')')"/>
+    </div>
+    
+    <div style="float:left">
+        <button type="button" onclick="porthole.call('v(1)')">Data 1</button>
+        <input type=range min = 0 max=50 oninput="porthole.call('s(1, ' + value + ')')"/>
+    </div>
+
+    <div style="float:left">
+        <button type="button" onclick="porthole.call('v(2)')">Data 2</button>
+        <input type=range min = 0 max=50 oninput="porthole.call('s(2, ' + value + ')')"/>
+    </div>
+    
+    <div style="float:left">
+        <button type="button" onclick="porthole.call('v(3)')">Data 3</button>
+        <input type=range min = 0 max=100 oninput="porthole.call('s(3, ' + value + ')')"/>
+    </div>
+    
+    <script src="porthole/res/porthole.js"></script>
+</body>
+</html>
+

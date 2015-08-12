@@ -1,498 +1,84 @@
-[{
+Manual DATA
+[
+{
   "name": "0",
   "parent": "-1",
   "children": [
  {
-   "name": "674485",
+   "name": "1",
    "parent": "0",
    "children": [
   {
-    "name": "666307",
-    "parent": "674485",
+    "name": "2",
+    "parent": "1",
     "children": [
    {
-     "name": "657973",
-     "parent": "666307",
+     "name": "5",
+     "parent": "2",
      "children": [
     {
-      "name": "649657",
-      "parent": "657973",
-      "children": [
-     {
-       "name": "641362",
-       "parent": "649657",
-       "children": [
-      {
-        "name": "633068",
-        "parent": "641362",
-        "children": [
-       {
-         "name": "624783",
-         "parent": "633068",
-         "children": [
-        {
-          "name": "616476",
-          "parent": "624783",
-          "children": [
-         {
-           "name": "608148",
-           "parent": "616476",
-           "children": [
-          {
-            "name": "599808",
-            "parent": "608148",
-            "children": [
-           {
-             "name": "591461",
-             "parent": "599808",
-             "children": [
-            {
-              "name": "583057",
-              "parent": "591461",
-              "children": [
-             {
-               "name": "574679",
-               "parent": "583057",
-               "children": [
-              {
-                "name": "566226",
-                "parent": "574679",
-                "children": [
-               {
-                 "name": "557764",
-                 "parent": "566226",
-                 "children": [
-                {
-                  "name": "549330",
-                  "parent": "557764",
-                  "children": [
-                 {
-                   "name": "540818",
-                   "parent": "549330",
-                   "children": [
-                  {
-                    "name": "532289",
-                    "parent": "540818",
-                    "children": [
-                   {
-                     "name": "523702",
-                     "parent": "532289",
-                     "children": [
-                    {
-                      "name": "515068",
-                      "parent": "523702",
-                      "children": [
-                     {
-                       "name": "506399",
-                       "parent": "515068",
-                       "children": [
-                      {
-                        "name": "497764",
-                        "parent": "506399",
-                        "children": [
-                       {
-                         "name": "489124",
-                         "parent": "497764",
-                         "children": [
-                        {
-                          "name": "480433",
-                          "parent": "489124",
-                          "children": [
-                         {
-                           "name": "471728",
-                           "parent": "480433",
-                           "children": [
-                          {
-                            "name": "462977",
-                            "parent": "471728",
-                            "children": [
-                           {
-                             "name": "454186",
-                             "parent": "462977",
-                             "children": [
-                            {
-                              "name": "445368",
-                              "parent": "454186",
-                              "children": [
-                             {
-                               "name": "436493",
-                               "parent": "445368",
-                               "children": [
-                              {
-                                "name": "427549",
-                                "parent": "436493",
-                                "children": [
-                               {
-                                 "name": "418573",
-                                 "parent": "427549",
-                                 "children": [
-                                {
-                                  "name": "409586",
-                                  "parent": "418573",
-                                  "children": [
-                                 {
-                                   "name": "400568",
-                                   "parent": "409586",
-                                   "children": [
-                                  {
-                                    "name": "391581",
-                                    "parent": "400568",
-                                    "children": [
-                                   {
-                                     "name": "382613",
-                                     "parent": "391581",
-                                     "children": [
-                                    {
-                                      "name": "373550",
-                                      "parent": "382613",
-                                      "children": [
-                                     {
-                                       "name": "364469",
-                                       "parent": "373550",
-                                       "children": [
-                                      {
-                                        "name": "355344",
-                                        "parent": "364469",
-                                        "children": [
-                                       {
-                                         "name": "346234",
-                                         "parent": "355344",
-                                         "children": [
-                                        {
-                                          "name": "337099",
-                                          "parent": "346234",
-                                          "children": [
-                                         {
-                                           "name": "327928",
-                                           "parent": "337099",
-                                           "children": [
-                                          {
-                                            "name": "318724",
-                                            "parent": "327928",
-                                            "children": [
-                                           {
-                                             "name": "309472",
-                                             "parent": "318724",
-                                             "children": [
-                                            {
-                                              "name": "300248",
-                                              "parent": "309472",
-                                              "children": [
-                                             {
-                                               "name": "290986",
-                                               "parent": "300248",
-                                               "children": [
-                                              {
-                                                "name": "281731",
-                                                "parent": "290986",
-                                                "children": [
-                                               {
-                                                 "name": "272510",
-                                                 "parent": "281731",
-                                                 "children": [
-                                                {
-                                                  "name": "263260",
-                                                  "parent": "272510",
-                                                  "children": [
-                                                 {
-                                                   "name": "254020",
-                                                   "parent": "263260",
-                                                   "children": [
-                                                  {
-                                                    "name": "244776",
-                                                    "parent": "254020",
-                                                    "children": [
-                                                   {
-                                                     "name": "235596",
-                                                     "parent": "244776",
-                                                     "children": [
-                                                    {
-                                                      "name": "226429",
-                                                      "parent": "235596",
-                                                      "children": [
-                                                     {
-                                                       "name": "217271",
-                                                       "parent": "226429",
-                                                       "children": [
-                                                      {
-                                                        "name": "208130",
-                                                        "parent": "217271",
-                                                        "children": [
-                                                       {
-                                                         "name": "199031",
-                                                         "parent": "208130",
-                                                         "children": [
-                                                        {
-                                                          "name": "189987",
-                                                          "parent": "199031",
-                                                          "children": [
-                                                         {
-                                                           "name": "180961",
-                                                           "parent": "189987",
-                                                           "children": [
-                                                          {
-                                                            "name": "171965",
-                                                            "parent": "180961",
-                                                            "children": [
-                                                           {
-                                                             "name": "163025",
-                                                             "parent": "171965",
-                                                             "children": [
-                                                            {
-                                                              "name": "154160",
-                                                              "parent": "163025",
-                                                              "children": [
-                                                             {
-                                                               "name": "145414",
-                                                               "parent": "154160",
-                                                               "children": [
-                                                              {
-                                                                "name": "136750",
-                                                                "parent": "145414",
-                                                                "children": [
-                                                               {
-                                                                 "name": "128296",
-                                                                 "parent": "136750",
-                                                                 "children": [
-                                                                {
-                                                                  "name": "119804",
-                                                                  "parent": "128296",
-                                                                  "children": [
-                                                                 {
-                                                                   "name": "111421",
-                                                                   "parent": "119804",
-                                                                   "children": [
-                                                                  {
-                                                                    "name": "103190",
-                                                                    "parent": "111421",
-                                                                    "children": [
-                                                                   {
-                                                                     "name": "95151",
-                                                                     "parent": "103190",
-                                                                     "children": [
-                                                                    {
-                                                                      "name": "87340",
-                                                                      "parent": "95151",
-                                                                      "children": [
-                                                                     {
-                                                                       "name": "79683",
-                                                                       "parent": "87340",
-                                                                       "children": [
-                                                                      {
-                                                                        "name": "72291",
-                                                                        "parent": "79683",
-                                                                        "children": [
-                                                                       {
-                                                                         "name": "65128",
-                                                                         "parent": "72291",
-                                                                         "children": [
-                                                                        {
-                                                                          "name": "58223",
-                                                                          "parent": "65128",
-                                                                          "children": [
-                                                                         {
-                                                                           "name": "51643",
-                                                                           "parent": "58223",
-                                                                           "children": [
-                                                                          {
-                                                                            "name": "45378",
-                                                                            "parent": "51643",
-                                                                            "children": [
-                                                                           {
-                                                                             "name": "39467",
-                                                                             "parent": "45378",
-                                                                             "children": [
-                                                                            {
-                                                                              "name": "33933",
-                                                                              "parent": "39467",
-                                                                              "children": [
-                                                                             {
-                                                                               "name": "28767",
-                                                                               "parent": "33933",
-                                                                               "children": [
-                                                                              {
-                                                                                "name": "23984",
-                                                                                "parent": "28767",
-                                                                                "children": [
-                                                                               {
-                                                                                 "name": "19601",
-                                                                                 "parent": "23984",
-                                                                                 "children": [
-                                                                                {
-                                                                                  "name": "15660",
-                                                                                  "parent": "19601",
-                                                                                  "children": [
-                                                                                 {
-                                                                                   "name": "12215",
-                                                                                   "parent": "15660",
-                                                                                   "children": [
-                                                                                  {
-                                                                                    "name": "9224",
-                                                                                    "parent": "12215",
-                                                                                    "children": [
-                                                                                  ]
-                                                                                  }
-                                                                                 ]
-                                                                                 }
-                                                                                ]
-                                                                                }
-                                                                               ]
-                                                                               }
-                                                                              ]
-                                                                              }
-                                                                             ]
-                                                                             }
-                                                                            ]
-                                                                            }
-                                                                           ]
-                                                                           }
-                                                                          ]
-                                                                          }
-                                                                         ]
-                                                                         }
-                                                                        ]
-                                                                        }
-                                                                       ]
-                                                                       }
-                                                                      ]
-                                                                      }
-                                                                     ]
-                                                                     }
-                                                                    ]
-                                                                    }
-                                                                   ]
-                                                                   }
-                                                                  ]
-                                                                  }
-                                                                 ]
-                                                                 }
-                                                                ]
-                                                                }
-                                                               ]
-                                                               }
-                                                              ]
-                                                              }
-                                                             ]
-                                                             }
-                                                            ]
-                                                            }
-                                                           ]
-                                                           }
-                                                          ]
-                                                          }
-                                                         ]
-                                                         }
-                                                        ]
-                                                        }
-                                                       ]
-                                                       }
-                                                      ]
-                                                      }
-                                                     ]
-                                                     }
-                                                    ]
-                                                    }
-                                                   ]
-                                                   }
-                                                  ]
-                                                  }
-                                                 ]
-                                                 }
-                                                ]
-                                                }
-                                               ]
-                                               }
-                                              ]
-                                              }
-                                             ]
-                                             }
-                                            ]
-                                            }
-                                           ]
-                                           }
-                                          ]
-                                          }
-                                         ]
-                                         }
-                                        ]
-                                        }
-                                       ]
-                                       }
-                                      ]
-                                      }
-                                     ]
-                                     }
-                                    ]
-                                    }
-                                   ]
-                                   }
-                                  ]
-                                  }
-                                 ]
-                                 }
-                                ]
-                                }
-                               ]
-                               }
-                              ]
-                              }
-                             ]
-                             }
-                            ]
-                            }
-                           ]
-                           }
-                          ]
-                          }
-                         ]
-                         }
-                        ]
-                        }
-                       ]
-                       }
-                      ]
-                      }
-                     ]
-                     }
-                    ]
-                    }
-                   ]
-                   }
-                  ]
-                  }
-                 ]
-                 }
-                ]
-                }
-               ]
-               }
-              ]
-              }
-             ]
-             }
-            ]
-            }
-           ]
-           }
-          ]
-          }
-         ]
-         }
-        ]
-        }
-       ]
-       }
-      ]
-      }
-     ]
-     }
-    ]
+      "name": "10",
+      "parent": "5"
+    }
+     ,
+    {
+      "name": "11",
+      "parent": "5"
+    }
+     ,
+    {
+      "name": "12",
+      "parent": "5"
     }
    ]
+   }
+    ,
+   {
+     "name": "6",
+     "parent": "2",
+     "children": [
+    {
+      "name": "13",
+      "parent": "6"
+    }
+     ,
+    {
+      "name": "14",
+      "parent": "6"
+    }
+   ]
+   }
+  ]
+  }
+   ,
+  {
+    "name": "3",
+    "parent": "1",
+    "children": [
+   {
+     "name": "7",
+     "parent": "3"
+   }
+  ]
+  }
+   ,
+  {
+    "name": "4",
+    "parent": "1",
+    "children": [
+   {
+     "name": "8",
+     "parent": "4"
+   }
+    ,
+   {
+     "name": "9",
+     "parent": "4"
    }
   ]
   }
  ]
  }
 ]
-}];
+}
+]

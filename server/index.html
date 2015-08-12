@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+
     <meta charset="utf-8">
 
     <title>Tree Example</title>
@@ -12,8 +13,8 @@
 	}
 
 	.node circle {
-	  fill: #fff;
-	  stroke: steelblue;
+	  fill: #057c49;
+	  stroke: #057c49;
 	  stroke-width: 3px;
 	}
 
@@ -35,6 +36,8 @@
 
 <!-- load the d3.js library -->	
 <script src="http://d3js.org/d3.v3.min.js"></script>
+
+
 	
 <script>
 
@@ -42,7 +45,6 @@
 d3.json("test.json", function(error,json) {
 		if(error) return console.warn(error);
 		treeData = json;
-
 
 // ************** Generate the tree diagram	 *****************
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
@@ -167,12 +169,15 @@ function click(d) {
 	d.children = null;
   } else {
 	d.children = d._children;
-	d._children = null;
+	d._children = null;i
   }
   update(d);
 }
 
 });
+
+
+ 
 </script>
 	
   </body>
