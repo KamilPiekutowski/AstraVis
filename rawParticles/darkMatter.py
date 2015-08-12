@@ -279,12 +279,16 @@ def onUpdate(frame, time, dt):
     frameTimer += dt
     frameCounter += 1
 
-    if funcTimer > .15 and setAnimate:
+    if funcTimer > .25 and setAnimate:
         
         timeStepsHal[currentIndex].object.setVisible(True)
+        #timeStepsRaw[currentIndex].object.setVisible(True)
         
-        if currentIndex > 1:
-            timeStepsHal[currentIndex - 1].object.setVisible(False)
+        if currentIndex > 25:
+            timeStepsHal[currentIndex - 25].object.setVisible(False)
+        
+        #if currentIndex > 1:
+        #    timeStepsRaw[currentIndex - 1].object.setVisible(False)
     
         currentIndex += 1
 
