@@ -10,5 +10,12 @@ while True:
     connection, address = serversocket.accept()
     buf = connection.recv(64)
     if len(buf) > 0:
-        print buf
-        break
+	if buf == 'test':
+		print 'test sucessfull.'
+	elif buf == 'quit':
+		print 'Closing server...'
+		print 'Done!'
+    		break
+	else:
+		print 'Unknown command: %s' % buf
+
