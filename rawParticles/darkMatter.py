@@ -7,6 +7,14 @@ import PointSet
 import time
 #import Manipulator
 
+import socket
+import thread
+
+serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+serversocket.bind(('localhost', 8089))
+serversocket.listen(5) # become a server socket, maximum 5 connections
+
+
 timeStepsRaw = [
                 PointSet.PointSet('data/points1200.xyzb', Color(1, 1, 1, 1), 0.01),
                 PointSet.PointSet('data/points1300.xyzb', Color(1, 1, 1, 1), 0.01),
@@ -309,9 +317,6 @@ def onUpdate(frame, time, dt):
 setUpdateFunction(onUpdate)
 
 
-
-
-
 c = getDefaultCamera()
 c.setBackgroundColor(Color('black'))
 c.getController().setSpeed(20)
@@ -322,4 +327,24 @@ c.setPosition(100, 40, 150)
 setNearFarZ(0.01, 10000)
 
 v(100)
+
+def worker():
+    while True:
+        connection, address = serversocket.accept()
+        buf = connection.recv(64)
+        if len(buf) > 0:
+            if buf == 'test':
+                print 'test sucessfull.'
+            elif buf == 'quit':
+                print 'Closing server...'
+                print 'Done!'
+                break
+            elif buf == 'v45':
+                print 'v(45)'
+                broadcastCommand('v(45)')
+            else:
+                print 'Unknown command: %s' % buf
+
+thread.start_new_thread(worker, ())
+
 
