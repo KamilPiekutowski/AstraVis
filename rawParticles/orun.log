@@ -25,630 +25,538 @@ Loaded buffer ID 13 with path menu_sounds/menu_scroll.wav
 >> omegalib 6.5
 >> to get a list of quick commands type ':?'
 Running darkMatter.py
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
-!!! Can't have more than 100 batches. Adjusting batch size to 20971
-LOD levels: 1
-out { 'minR': 0.000000, 'maxR': 1000000.000000, 'minG': 0.000000, 'maxG': 1000000.000000, 'minB': 0.000000, 'maxB': 1000000.000000, 'minA': 1.000000, 'maxA': 1.000000 }
-Total Points: 63   Points per batch: 10000   Batch length(%): 15873
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067840, 'maxB': 0.274159, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 154   Points per batch: 10000   Batch length(%): 6493
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067827, 'maxB': 0.289180, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 315   Points per batch: 10000   Batch length(%): 3174
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067811, 'maxB': 0.310497, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 517   Points per batch: 10000   Batch length(%): 1934
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067793, 'maxB': 0.337603, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 783   Points per batch: 10000   Batch length(%): 1277
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067772, 'maxB': 0.378718, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 1097   Points per batch: 10000   Batch length(%): 911
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067749, 'maxB': 0.407743, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 1470   Points per batch: 10000   Batch length(%): 680
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067722, 'maxB': 0.448262, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 1876   Points per batch: 10000   Batch length(%): 533
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067693, 'maxB': 0.473161, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 2273   Points per batch: 10000   Batch length(%): 439
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067659, 'maxB': 0.485960, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 2675   Points per batch: 10000   Batch length(%): 373
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067624, 'maxB': 0.540297, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 3086   Points per batch: 10000   Batch length(%): 324
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067586, 'maxB': 0.569253, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 3472   Points per batch: 10000   Batch length(%): 288
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067544, 'maxB': 0.613541, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 3866   Points per batch: 10000   Batch length(%): 258
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067498, 'maxB': 0.636362, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 4188   Points per batch: 10000   Batch length(%): 238
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067448, 'maxB': 0.652528, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 4494   Points per batch: 10000   Batch length(%): 222
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067391, 'maxB': 0.669991, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 4777   Points per batch: 10000   Batch length(%): 209
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067333, 'maxB': 0.689266, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 5039   Points per batch: 10000   Batch length(%): 198
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067276, 'maxB': 0.701762, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 5309   Points per batch: 10000   Batch length(%): 188
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067210, 'maxB': 0.705072, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 5573   Points per batch: 10000   Batch length(%): 179
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067141, 'maxB': 0.706976, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 5777   Points per batch: 10000   Batch length(%): 173
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.067067, 'maxB': 0.709212, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 6004   Points per batch: 10000   Batch length(%): 166
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066989, 'maxB': 0.711074, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 6181   Points per batch: 10000   Batch length(%): 161
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066907, 'maxB': 0.737450, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 6347   Points per batch: 10000   Batch length(%): 157
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066821, 'maxB': 0.767196, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 6468   Points per batch: 10000   Batch length(%): 154
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066730, 'maxB': 0.789405, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 6632   Points per batch: 10000   Batch length(%): 150
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066636, 'maxB': 0.812080, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 6778   Points per batch: 10000   Batch length(%): 147
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066537, 'maxB': 0.825468, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 6886   Points per batch: 10000   Batch length(%): 145
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066433, 'maxB': 0.841379, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 6958   Points per batch: 10000   Batch length(%): 143
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066326, 'maxB': 0.874871, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 6967   Points per batch: 10000   Batch length(%): 143
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066214, 'maxB': 0.915945, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7016   Points per batch: 10000   Batch length(%): 142
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.066099, 'maxB': 0.944486, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7054   Points per batch: 10000   Batch length(%): 141
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065979, 'maxB': 0.957253, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7099   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065855, 'maxB': 0.972564, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7132   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065725, 'maxB': 0.991039, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7169   Points per batch: 10000   Batch length(%): 139
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065595, 'maxB': 1.014823, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7213   Points per batch: 10000   Batch length(%): 138
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065460, 'maxB': 1.037460, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7230   Points per batch: 10000   Batch length(%): 138
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065319, 'maxB': 1.087250, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7260   Points per batch: 10000   Batch length(%): 137
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065177, 'maxB': 1.144641, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7274   Points per batch: 10000   Batch length(%): 137
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.065031, 'maxB': 1.196052, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7307   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064881, 'maxB': 1.255895, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7334   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064727, 'maxB': 1.286123, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7342   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064570, 'maxB': 1.301887, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7343   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064408, 'maxB': 1.313356, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7341   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064246, 'maxB': 1.323358, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7350   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.064080, 'maxB': 1.340450, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7341   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063910, 'maxB': 1.347915, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7332   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063738, 'maxB': 1.346640, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7333   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063562, 'maxB': 1.342678, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7308   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063385, 'maxB': 1.331780, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7290   Points per batch: 10000   Batch length(%): 137
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063205, 'maxB': 1.323125, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7266   Points per batch: 10000   Batch length(%): 137
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.063021, 'maxB': 1.316411, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7267   Points per batch: 10000   Batch length(%): 137
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062836, 'maxB': 1.303984, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7246   Points per batch: 10000   Batch length(%): 138
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062648, 'maxB': 1.296096, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7227   Points per batch: 10000   Batch length(%): 138
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062458, 'maxB': 1.277128, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7203   Points per batch: 10000   Batch length(%): 138
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062266, 'maxB': 1.274855, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7177   Points per batch: 10000   Batch length(%): 139
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.062071, 'maxB': 1.276058, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7153   Points per batch: 10000   Batch length(%): 139
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061874, 'maxB': 1.282400, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7128   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061676, 'maxB': 1.286158, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7123   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061476, 'maxB': 1.287141, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7132   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061273, 'maxB': 1.288519, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7136   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.061069, 'maxB': 1.289865, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7125   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060863, 'maxB': 1.289939, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7114   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060656, 'maxB': 1.292395, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7099   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060447, 'maxB': 1.296388, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7107   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060237, 'maxB': 1.307489, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7106   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.060025, 'maxB': 1.310176, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7104   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.059812, 'maxB': 1.311479, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7104   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.059597, 'maxB': 1.313865, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7109   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.059382, 'maxB': 1.315834, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7126   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.059165, 'maxB': 1.314111, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7134   Points per batch: 10000   Batch length(%): 140
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058946, 'maxB': 1.312545, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7147   Points per batch: 10000   Batch length(%): 139
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058727, 'maxB': 1.309143, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7147   Points per batch: 10000   Batch length(%): 139
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058507, 'maxB': 1.304331, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7170   Points per batch: 10000   Batch length(%): 139
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058286, 'maxB': 1.300786, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7163   Points per batch: 10000   Batch length(%): 139
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.058064, 'maxB': 1.296974, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7174   Points per batch: 10000   Batch length(%): 139
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.057841, 'maxB': 1.295038, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7181   Points per batch: 10000   Batch length(%): 139
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.057617, 'maxB': 1.291175, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7212   Points per batch: 10000   Batch length(%): 138
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.057392, 'maxB': 1.288309, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7239   Points per batch: 10000   Batch length(%): 138
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.057167, 'maxB': 1.286532, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7268   Points per batch: 10000   Batch length(%): 137
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056941, 'maxB': 1.283186, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7303   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056714, 'maxB': 1.279121, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7315   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056487, 'maxB': 1.271994, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7337   Points per batch: 10000   Batch length(%): 136
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056259, 'maxB': 1.264847, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7359   Points per batch: 10000   Batch length(%): 135
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.056031, 'maxB': 1.259956, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7409   Points per batch: 10000   Batch length(%): 134
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.055802, 'maxB': 1.260180, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7437   Points per batch: 10000   Batch length(%): 134
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.055573, 'maxB': 1.258339, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7492   Points per batch: 10000   Batch length(%): 133
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.055344, 'maxB': 1.254672, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7546   Points per batch: 10000   Batch length(%): 132
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.055114, 'maxB': 1.252033, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7526   Points per batch: 10000   Batch length(%): 132
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.054884, 'maxB': 1.249056, 'minA': 2.000000, 'maxA': 2.000000 }
-Total Points: 7497   Points per batch: 10000   Batch length(%): 133
-LOD levels: 1
-out { 'minR': 1.000000, 'maxR': 1.000000, 'minG': 1.000000, 'maxG': 1.000000, 'minB': 0.054654, 'maxB': 1.248390, 'minA': 2.000000, 'maxA': 2.000000 }
-number of nodes: 37
-[PYTHON ERROR] !!! Traceback (most recent call last):
-  File "<string>", line 1, in <module>
+!!! BinaryPointsLoader::load: could not find data/points1200.xyzb
+!!! could not find file: data/points1200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points1200.xyzb
+!!! BinaryPointsLoader::load: could not find data/points1300.xyzb
+!!! could not find file: data/points1300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points1300.xyzb
+!!! BinaryPointsLoader::load: could not find data/points1400.xyzb
+!!! could not find file: data/points1400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points1400.xyzb
+!!! BinaryPointsLoader::load: could not find data/points1500.xyzb
+!!! could not find file: data/points1500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points1500.xyzb
+!!! BinaryPointsLoader::load: could not find data/points1600.xyzb
+!!! could not find file: data/points1600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points1600.xyzb
+!!! BinaryPointsLoader::load: could not find data/points1700.xyzb
+!!! could not find file: data/points1700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points1700.xyzb
+!!! BinaryPointsLoader::load: could not find data/points1800.xyzb
+!!! could not find file: data/points1800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points1800.xyzb
+!!! BinaryPointsLoader::load: could not find data/points1900.xyzb
+!!! could not find file: data/points1900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points1900.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2000.xyzb
+!!! could not find file: data/points2000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2000.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2100.xyzb
+!!! could not find file: data/points2100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2100.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2200.xyzb
+!!! could not find file: data/points2200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2200.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2300.xyzb
+!!! could not find file: data/points2300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2300.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2400.xyzb
+!!! could not find file: data/points2400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2400.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2500.xyzb
+!!! could not find file: data/points2500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2500.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2600.xyzb
+!!! could not find file: data/points2600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2600.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2700.xyzb
+!!! could not find file: data/points2700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2700.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2800.xyzb
+!!! could not find file: data/points2800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2800.xyzb
+!!! BinaryPointsLoader::load: could not find data/points2900.xyzb
+!!! could not find file: data/points2900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points2900.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3000.xyzb
+!!! could not find file: data/points3000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3000.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3100.xyzb
+!!! could not find file: data/points3100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3100.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3200.xyzb
+!!! could not find file: data/points3200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3200.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3300.xyzb
+!!! could not find file: data/points3300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3300.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3400.xyzb
+!!! could not find file: data/points3400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3400.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3500.xyzb
+!!! could not find file: data/points3500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3500.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3600.xyzb
+!!! could not find file: data/points3600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3600.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3700.xyzb
+!!! could not find file: data/points3700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3700.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3800.xyzb
+!!! could not find file: data/points3800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3800.xyzb
+!!! BinaryPointsLoader::load: could not find data/points3900.xyzb
+!!! could not find file: data/points3900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points3900.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4000.xyzb
+!!! could not find file: data/points4000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4000.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4100.xyzb
+!!! could not find file: data/points4100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4100.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4200.xyzb
+!!! could not find file: data/points4200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4200.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4300.xyzb
+!!! could not find file: data/points4300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4300.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4400.xyzb
+!!! could not find file: data/points4400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4400.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4500.xyzb
+!!! could not find file: data/points4500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4500.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4600.xyzb
+!!! could not find file: data/points4600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4600.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4700.xyzb
+!!! could not find file: data/points4700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4700.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4800.xyzb
+!!! could not find file: data/points4800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4800.xyzb
+!!! BinaryPointsLoader::load: could not find data/points4900.xyzb
+!!! could not find file: data/points4900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points4900.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5000.xyzb
+!!! could not find file: data/points5000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5000.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5100.xyzb
+!!! could not find file: data/points5100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5100.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5200.xyzb
+!!! could not find file: data/points5200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5200.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5300.xyzb
+!!! could not find file: data/points5300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5300.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5400.xyzb
+!!! could not find file: data/points5400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5400.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5500.xyzb
+!!! could not find file: data/points5500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5500.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5600.xyzb
+!!! could not find file: data/points5600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5600.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5700.xyzb
+!!! could not find file: data/points5700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5700.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5800.xyzb
+!!! could not find file: data/points5800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5800.xyzb
+!!! BinaryPointsLoader::load: could not find data/points5900.xyzb
+!!! could not find file: data/points5900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points5900.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6000.xyzb
+!!! could not find file: data/points6000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6000.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6100.xyzb
+!!! could not find file: data/points6100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6100.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6200.xyzb
+!!! could not find file: data/points6200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6200.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6300.xyzb
+!!! could not find file: data/points6300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6300.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6400.xyzb
+!!! could not find file: data/points6400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6400.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6500.xyzb
+!!! could not find file: data/points6500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6500.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6600.xyzb
+!!! could not find file: data/points6600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6600.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6700.xyzb
+!!! could not find file: data/points6700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6700.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6800.xyzb
+!!! could not find file: data/points6800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6800.xyzb
+!!! BinaryPointsLoader::load: could not find data/points6900.xyzb
+!!! could not find file: data/points6900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points6900.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7000.xyzb
+!!! could not find file: data/points7000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7000.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7100.xyzb
+!!! could not find file: data/points7100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7100.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7200.xyzb
+!!! could not find file: data/points7200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7200.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7300.xyzb
+!!! could not find file: data/points7300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7300.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7400.xyzb
+!!! could not find file: data/points7400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7400.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7500.xyzb
+!!! could not find file: data/points7500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7500.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7600.xyzb
+!!! could not find file: data/points7600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7600.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7700.xyzb
+!!! could not find file: data/points7700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7700.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7800.xyzb
+!!! could not find file: data/points7800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7800.xyzb
+!!! BinaryPointsLoader::load: could not find data/points7900.xyzb
+!!! could not find file: data/points7900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points7900.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8000.xyzb
+!!! could not find file: data/points8000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8000.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8100.xyzb
+!!! could not find file: data/points8100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8100.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8200.xyzb
+!!! could not find file: data/points8200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8200.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8300.xyzb
+!!! could not find file: data/points8300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8300.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8400.xyzb
+!!! could not find file: data/points8400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8400.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8500.xyzb
+!!! could not find file: data/points8500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8500.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8600.xyzb
+!!! could not find file: data/points8600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8600.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8700.xyzb
+!!! could not find file: data/points8700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8700.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8800.xyzb
+!!! could not find file: data/points8800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8800.xyzb
+!!! BinaryPointsLoader::load: could not find data/points8900.xyzb
+!!! could not find file: data/points8900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points8900.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9000.xyzb
+!!! could not find file: data/points9000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9000.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9100.xyzb
+!!! could not find file: data/points9100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9100.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9200.xyzb
+!!! could not find file: data/points9200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9200.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9300.xyzb
+!!! could not find file: data/points9300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9300.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9400.xyzb
+!!! could not find file: data/points9400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9400.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9500.xyzb
+!!! could not find file: data/points9500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9500.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9600.xyzb
+!!! could not find file: data/points9600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9600.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9700.xyzb
+!!! could not find file: data/points9700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9700.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9800.xyzb
+!!! could not find file: data/points9800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9800.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9900.xyzb
+!!! could not find file: data/points9900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9900.xyzb
+!!! BinaryPointsLoader::load: could not find data/points9910.xyzb
+!!! could not find file: data/points9910.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/points9910.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos1200.xyzb
+!!! could not find file: data/halos1200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos1200.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos1300.xyzb
+!!! could not find file: data/halos1300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos1300.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos1400.xyzb
+!!! could not find file: data/halos1400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos1400.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos1500.xyzb
+!!! could not find file: data/halos1500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos1500.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos1600.xyzb
+!!! could not find file: data/halos1600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos1600.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos1700.xyzb
+!!! could not find file: data/halos1700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos1700.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos1800.xyzb
+!!! could not find file: data/halos1800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos1800.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos1900.xyzb
+!!! could not find file: data/halos1900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos1900.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2000.xyzb
+!!! could not find file: data/halos2000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2000.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2100.xyzb
+!!! could not find file: data/halos2100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2100.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2200.xyzb
+!!! could not find file: data/halos2200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2200.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2300.xyzb
+!!! could not find file: data/halos2300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2300.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2400.xyzb
+!!! could not find file: data/halos2400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2400.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2500.xyzb
+!!! could not find file: data/halos2500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2500.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2600.xyzb
+!!! could not find file: data/halos2600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2600.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2700.xyzb
+!!! could not find file: data/halos2700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2700.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2800.xyzb
+!!! could not find file: data/halos2800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2800.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos2900.xyzb
+!!! could not find file: data/halos2900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos2900.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3000.xyzb
+!!! could not find file: data/halos3000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3000.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3100.xyzb
+!!! could not find file: data/halos3100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3100.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3200.xyzb
+!!! could not find file: data/halos3200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3200.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3300.xyzb
+!!! could not find file: data/halos3300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3300.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3400.xyzb
+!!! could not find file: data/halos3400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3400.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3500.xyzb
+!!! could not find file: data/halos3500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3500.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3600.xyzb
+!!! could not find file: data/halos3600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3600.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3700.xyzb
+!!! could not find file: data/halos3700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3700.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3800.xyzb
+!!! could not find file: data/halos3800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3800.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos3900.xyzb
+!!! could not find file: data/halos3900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos3900.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4000.xyzb
+!!! could not find file: data/halos4000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4000.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4100.xyzb
+!!! could not find file: data/halos4100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4100.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4200.xyzb
+!!! could not find file: data/halos4200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4200.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4300.xyzb
+!!! could not find file: data/halos4300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4300.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4400.xyzb
+!!! could not find file: data/halos4400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4400.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4500.xyzb
+!!! could not find file: data/halos4500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4500.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4600.xyzb
+!!! could not find file: data/halos4600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4600.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4700.xyzb
+!!! could not find file: data/halos4700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4700.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4800.xyzb
+!!! could not find file: data/halos4800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4800.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos4900.xyzb
+!!! could not find file: data/halos4900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos4900.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5000.xyzb
+!!! could not find file: data/halos5000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5000.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5100.xyzb
+!!! could not find file: data/halos5100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5100.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5200.xyzb
+!!! could not find file: data/halos5200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5200.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5300.xyzb
+!!! could not find file: data/halos5300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5300.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5400.xyzb
+!!! could not find file: data/halos5400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5400.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5500.xyzb
+!!! could not find file: data/halos5500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5500.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5600.xyzb
+!!! could not find file: data/halos5600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5600.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5700.xyzb
+!!! could not find file: data/halos5700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5700.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5800.xyzb
+!!! could not find file: data/halos5800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5800.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos5900.xyzb
+!!! could not find file: data/halos5900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos5900.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6000.xyzb
+!!! could not find file: data/halos6000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6000.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6100.xyzb
+!!! could not find file: data/halos6100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6100.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6200.xyzb
+!!! could not find file: data/halos6200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6200.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6300.xyzb
+!!! could not find file: data/halos6300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6300.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6400.xyzb
+!!! could not find file: data/halos6400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6400.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6500.xyzb
+!!! could not find file: data/halos6500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6500.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6600.xyzb
+!!! could not find file: data/halos6600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6600.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6700.xyzb
+!!! could not find file: data/halos6700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6700.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6800.xyzb
+!!! could not find file: data/halos6800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6800.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos6900.xyzb
+!!! could not find file: data/halos6900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos6900.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7000.xyzb
+!!! could not find file: data/halos7000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7000.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7100.xyzb
+!!! could not find file: data/halos7100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7100.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7200.xyzb
+!!! could not find file: data/halos7200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7200.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7300.xyzb
+!!! could not find file: data/halos7300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7300.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7400.xyzb
+!!! could not find file: data/halos7400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7400.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7500.xyzb
+!!! could not find file: data/halos7500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7500.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7600.xyzb
+!!! could not find file: data/halos7600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7600.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7700.xyzb
+!!! could not find file: data/halos7700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7700.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7800.xyzb
+!!! could not find file: data/halos7800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7800.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos7900.xyzb
+!!! could not find file: data/halos7900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos7900.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8000.xyzb
+!!! could not find file: data/halos8000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8000.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8100.xyzb
+!!! could not find file: data/halos8100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8100.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8200.xyzb
+!!! could not find file: data/halos8200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8200.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8300.xyzb
+!!! could not find file: data/halos8300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8300.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8400.xyzb
+!!! could not find file: data/halos8400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8400.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8500.xyzb
+!!! could not find file: data/halos8500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8500.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8600.xyzb
+!!! could not find file: data/halos8600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8600.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8700.xyzb
+!!! could not find file: data/halos8700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8700.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8800.xyzb
+!!! could not find file: data/halos8800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8800.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos8900.xyzb
+!!! could not find file: data/halos8900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos8900.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9000.xyzb
+!!! could not find file: data/halos9000.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9000.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9100.xyzb
+!!! could not find file: data/halos9100.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9100.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9200.xyzb
+!!! could not find file: data/halos9200.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9200.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9300.xyzb
+!!! could not find file: data/halos9300.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9300.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9400.xyzb
+!!! could not find file: data/halos9400.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9400.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9500.xyzb
+!!! could not find file: data/halos9500.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9500.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9600.xyzb
+!!! could not find file: data/halos9600.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9600.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9700.xyzb
+!!! could not find file: data/halos9700.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9700.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9800.xyzb
+!!! could not find file: data/halos9800.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9800.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9900.xyzb
+!!! could not find file: data/halos9900.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9900.xyzb
+!!! BinaryPointsLoader::load: could not find data/halos9910.xyzb
+!!! could not find file: data/halos9910.xyzb
+!!! StaticObject::StaticObject: could not create static object: model not found - data/halos9910.xyzb
 number of nodes: 37
