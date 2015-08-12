@@ -2,28 +2,42 @@
 import sys
 import json
 
+
+
+
 if len(sys.argv) < 2:
     print "usage: %s <filename.data<" % sys.argv[0]
     exit()
 
-infile = open(sys.argv[1])
+if sys.argv[1] != '-m':
+    infile = open(sys.argv[1])
 
 
-file_data = []
-data = []
+    file_data = []
+    data = []
 
-for i in infile:
-    file_data.append(i.split())
+    for i in infile:
+        file_data.append(i.split())
 
 
-for i in file_data:
-    if i[3] == -1:
-        i[3] = 0
-    data.append([int(i[3]),int(i[1])])
+    for i in file_data:
+        if i[3] == -1:
+            i[3] = 0
+        data.append([int(i[3]),int(i[1])])
 
-data[0][0] = 0
+    data[0][0] = 0
 
-#exit()
+    #exit()
+
+#put manual data here 
+else:
+    data = [[0,1],
+            [1,2],
+            [1,3],
+            [2,0],
+            [3,0]]
+
+
 
 tree = []
 

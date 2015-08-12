@@ -1,0 +1,34 @@
+Grid size 18 2 pool 100 numTimes 36
+Service NetService: dataPort set to 16601
+Equalizer display system initializing
+SoundManager: Connected to server, will send messages to xenakis.evl.uic.edu on port 57120
+Engine: Checking if sound server is ready at xenakis.evl.uic.edu on port 57120... (Waiting for 5 seconds)
+Engine: Sound server reports ready.
+SoundManager::setup: Display radius: 3.24
+Running default_init.py
+Running system/quickCommands.py
+Connected: setting cache
+Done message received
+CacheSyncThread:threadProc(): END
+Loaded buffer ID 10 with path menu_sounds/menu_load.wav
+Connected: setting cache
+Done message received
+CacheSyncThread:threadProc(): END
+Loaded buffer ID 11 with path menu_sounds/menu_closed.wav
+Connected: setting cache
+Done message received
+CacheSyncThread:threadProc(): END
+Loaded buffer ID 12 with path menu_sounds/menu_select.wav
+Connected: setting cache
+Done message received
+CacheSyncThread:threadProc(): END
+Loaded buffer ID 13 with path menu_sounds/menu_scroll.wav
+
+>> omegalib 6.5
+>> to get a list of quick commands type ':?'
+Running ./runporthole.py
+[PYTHON ERROR] !!! Traceback (most recent call last):
+  File "./runporthole.py", line 8, in <module>
+    from webView import *
+ImportError: libudev.so.0: cannot open shared object file: No such file or directory
+number of nodes: 37
