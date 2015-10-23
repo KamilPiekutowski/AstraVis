@@ -1,4 +1,3 @@
-#!/data/evl/omegalib/build/bit/orun -i -s
 from cyclops import *
 from pointCloud import *
 from omegaToolkit import *
@@ -223,13 +222,27 @@ for ps in timeStepsHal:
 pivot.setScale(1.0, 1.0, 1.0)
 #Manipulator.root = pivot
 
+currentTimeStep = 88
+
 
 def v(id):
+    global currentTimeStep
+    global m1
+    global m2
+    global m3
+    
+    global viewLabel
     reset()
     if id < 12:
         id = 12
-    timeStepsRaw[id-12].object.setVisible(True)
-    timeStepsHal[id-12].object.setVisible(True)
+        m3.getSlider().setValue(11)
+    if (m1.isChecked()):
+        timeStepsRaw[id-12].object.setVisible(True)
+    if (m2.isChecked()):
+        timeStepsHal[id-12].object.setVisible(True)
+    currentTimeStep = id-12
+
+    viewLabel.setText("Time Step: " + str(currentTimeStep + 12) + "")
 
 def reset():
     for i in range(0, 89):
@@ -246,22 +259,44 @@ def timelapse(start, end, step):
 
 
 def pTog(x):
-    for i in range(0, 89):
-        if x:
-            timeStepsRaw[i].object.setVisible(True)
-        else:
+    global currentTimeStep
+    if x:
+        timeStepsRaw[currentTimeStep].object.setVisible(True)
+    else:
+        for i in range(0, 89):
             timeStepsRaw[i].object.setVisible(False)
 
 def hTog(x):
-    for i in range(0, 89):
-        if x:
-            timeStepsHal[i].object.setVisible(True)
-        else:
+    global currentTimeStep
+    if x:
+        timeStepsHal[currentTimeStep].object.setVisible(True)
+    else:
+        for i in range(0, 89):
             timeStepsHal[i].object.setVisible(False)
 
 def allHalos():
     for i in range(0, 89):
         timeStepsHal[i].object.setVisible(True)
+
+
+dc = getDefaultCamera()
+saveNextFrame = False
+
+image = PixelData.create(1366, 1536, PixelFormat.FormatRgba)
+
+def capture():
+
+    global dc
+    global saveNextFrame
+    global image
+    
+    #image = PixelData.create(1366, 1536, PixelFormat.FormatRgba)
+    dc.getOutput(0).setReadbackTarget(image)
+    # now render to the image instead of screen
+    dc.getOutput(0).setEnabled(True)
+
+    saveNextFrame = True
+
 
 
 funcTimer = frameTimer = frameCounter = 0.0
@@ -282,11 +317,36 @@ def onUpdate(frame, time, dt):
     global setAnimate
     global frameCounter
     
-    
-    
+
+    global dc
+    global saveNextFrame
+    global image
+
     funcTimer += dt
     frameTimer += dt
     frameCounter += 1
+    
+    global m1
+    global m2
+    
+    m1.setCommand("pTog(" + str(not m1.isChecked()) + ")")
+    m2.setCommand("hTog(" + str(not m2.isChecked()) + ")")
+
+    
+    if(saveNextFrame == True and funcTimer > 6.0):
+        
+        if (saveImage(image, "" + getHostname() + ".jpg", ImageFormat.FormatJpeg)):
+            print("screenShot success")
+        else:
+            print("screenShot error")
+        
+        dc.getOutput(0).setEnabled(False)
+        saveNextFrame = False
+
+        funcTimer = 0.0
+        
+    
+    
 
     if funcTimer > .25 and setAnimate:
         
@@ -312,6 +372,9 @@ def onUpdate(frame, time, dt):
         #print (frameCounter)
         frameCounter = 0.0
         frameTimer = 0.0
+
+    if funcTimer > 9.0:
+        funcTimer = 0.0
     
 #print(frame, time, dt, funcTimer, fps)
     
@@ -321,13 +384,14 @@ setUpdateFunction(onUpdate)
 c = getDefaultCamera()
 c.setBackgroundColor(Color('black'))
 c.getController().setSpeed(20)
-c.setPosition(100, 40, 150)
+#c.setPosition(100, 40, 150)
+c.setPosition(30, 30, 30)
+
 
 #getDefaultCamera().lookAt(pointCloud.getBoundCenter(), Vector3(0,1,0))
 
 setNearFarZ(0.01, 10000)
 
-v(100)
 
 def worker():
     while True:
@@ -347,5 +411,35 @@ def worker():
                 print 'Unknown command: %s' % buf
 
 thread.start_new_thread(worker, ())
+
+
+
+mm = MenuManager.createAndInitialize()
+menu = mm.getMainMenu()
+
+if(menu == None):
+    menu = mm.createMenu("menu")
+    mm.setMainMenu(menu)
+
+m1 = menu.addItem(MenuItemType.Checkbox)
+m1.setText("Particles")
+m1.setChecked(True)
+
+m2 = menu.addItem(MenuItemType.Checkbox)
+m2.setText("Halos")
+m2.setChecked(True)
+
+viewLabel = menu.addLabel("null")
+
+m3 = menu.addSlider(100, "v(%value% + 1)")
+m3.getSlider().setValue(99)
+m3.getWidget().setWidth(200)
+
+
+#mi1 = menu.addButton("view", "v(55)")
+#mi2 = menu.addButton("Mass", "toggleModel(1)")
+#mi3 = menu.addSlider("Spin Parameter", "spinParameter")
+
+v(100)
 
 

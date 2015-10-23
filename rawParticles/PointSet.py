@@ -12,6 +12,9 @@ pointProgram.vertexShaderName = "shaders/Sphere.vert"
 pointProgram.fragmentShaderName = "shaders/Sphere.frag"
 pointProgram.geometryShaderName = "shaders/Sphere.geom"
 
+#pointProgram.vertexShaderName = "star.vert"
+#pointProgram.fragmentShaderName = "star.frag"
+
 #pointProgram.vertexShaderName = "shadersSprite/star.vert"
 #pointProgram.fragmentShaderName = "shadersSprite/star.frag"
 
@@ -72,5 +75,5 @@ class HaloSet:
         #self.material.setAdditive(True)
         #self.material.setDepthTestEnabled(False)
 
-        #self.material.setDiffuseTexture('data/star1.png')
+        #self.material.setDiffuseTexture('star1.png')
         #self.material.setPointSprite(True)

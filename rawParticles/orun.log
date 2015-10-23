@@ -1,28 +1,16 @@
 Equalizer display system initializing
 SoundManager: Connected to server, will send messages to xenakis.evl.uic.edu on port 57120
 Engine: Checking if sound server is ready at xenakis.evl.uic.edu on port 57120... (Waiting for 5 seconds)
-Engine: Sound server reports ready.
+Engine: Failed to start sound server. Sound disabled.
 SoundManager::setup: Display radius: 3.24
 Running default_init.py
 Running system/quickCommands.py
-Connected: setting cache
-Done message received
-CacheSyncThread:threadProc(): END
-Loaded buffer ID 10 with path menu_sounds/menu_load.wav
-Connected: setting cache
-Done message received
-CacheSyncThread:threadProc(): END
-Loaded buffer ID 11 with path menu_sounds/menu_closed.wav
-Connected: setting cache
-Done message received
-CacheSyncThread:threadProc(): END
-Loaded buffer ID 12 with path menu_sounds/menu_select.wav
-Connected: setting cache
-Done message received
-CacheSyncThread:threadProc(): END
-Loaded buffer ID 13 with path menu_sounds/menu_scroll.wav
+Attemped to loaded buffer ID 10, but not connected to a sound server!
+Attemped to loaded buffer ID 11, but not connected to a sound server!
+Attemped to loaded buffer ID 12, but not connected to a sound server!
+Attemped to loaded buffer ID 13, but not connected to a sound server!
 
->> omegalib 6.5
+>> omegalib 7.2
 >> to get a list of quick commands type ':?'
 Running darkMatter.py
 Total Points: 2097152   Points per batch: 10000   Batch length(%): 0
