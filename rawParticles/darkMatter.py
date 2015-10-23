@@ -1,3 +1,4 @@
+#!/data/evl/omegalib/build/bit/orun -i -s
 from cyclops import *
 from pointCloud import *
 from omegaToolkit import *
